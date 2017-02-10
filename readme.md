@@ -5,8 +5,6 @@ AYSO National Office Projects
 ___
 Rick Roberts
 Last Updated: 9 Feb 2017
-
-– C O N F I D E N T I A L –
 ___
 
 ###Overview
@@ -55,4 +53,4 @@ This version will not support the following features:
 
 ---
 ####Open Issues
-[Link to Git project](https://github.com)
+[Link to Git project](https://github.com/rrone/Automated-Assessment-Dashboard)
